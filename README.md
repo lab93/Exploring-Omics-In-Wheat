@@ -23,3 +23,7 @@ Supplementary data for **[Exploring Omics and Methods to Improve Wheat Predictio
 
 **Environments:** Buhler, Garden City, Imperial and Wamego (2024 and 2025); Hutchinson,
 Manhattan and Russell (2025 only).
+
+## RUN
+dat = readRDS('pheno.rds')
+pcs = readRDS('geno.rds')
