@@ -12,14 +12,14 @@ so they can be joined directly.
 
 ## Files
 | File | Object | Description |
-|---|---|---|
-| `pheno_4traits.rds` | `pheno_out` | Phenotypic records (long format) |
-| `geno_features.rds` | `x_df` | Genomic features per line |
+|---|---|
+| `pheno.rds` | Phenotypic records (long format) |
+| `geno.rds` |  Genomic features per line |
 
-## Phenotypic data (`pheno_out`)
+## Phenotypic data 
 | Column | Description | Unit |
 |---|---|---|
-| `GE` | Masked line ID | – |
+| `line ID` | Masked line ID | – |
 | `Location` | Environment (location + year) | – |
 | `Year` | Season | – |
 | `YIELD_kg_ha` | Grain yield | kg ha⁻¹ |
