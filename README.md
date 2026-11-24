@@ -13,7 +13,7 @@ Supplementary data for **[Exploring Omics and Methods to Improve Wheat Predictio
 ## Phenotypic data (`pheno.rds`)
 | Column | Description | Unit |
 |---|---|---|
-| `GE` | Masked line ID | – |
+| `Genotype` | Masked line ID | – |
 | `Location` | Environment (location + year) | – |
 | `Year` | Season | – |
 | `Yield_kg_ha` | Grain yield | kg ha⁻¹ |
