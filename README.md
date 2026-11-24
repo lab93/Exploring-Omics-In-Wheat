@@ -1,5 +1,5 @@
 # Exploring-Omics-and-Methods-to-Improve-Wheat-Prediction-Across-Locations-Years-and-New-Genotypes
-data of the paper submitted to G3 
+
 # Masked Wheat Phenotypic and Genomic Data (2024–2025)
 
 Supplementary data for **[Exploring Omics and Methods to Improve Wheat Prediction Across Locations, Years, and New Genotypes]**.
