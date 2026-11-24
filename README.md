@@ -25,5 +25,5 @@ Supplementary data for **[Exploring Omics and Methods to Improve Wheat Predictio
 Manhattan and Russell (2025 only).
 
 ## RUN
-dat = readRDS('pheno.rds')
+dat = readRDS('pheno.rds'),
 pcs = readRDS('geno.rds')
